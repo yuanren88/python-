@@ -4,6 +4,7 @@
 textAna:
   find_name:统计小说人物名称
   find_relation：利用同时出现原则，对人物建立彼此关系。
+  DrawAni：按百分比分一百份，连续统计人物关系，并批量绘制关系图
 TSocial：社会关系类
 
 
